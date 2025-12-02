@@ -1,0 +1,9 @@
+{
+  "name": "Day 01",
+  "image": "dart:stable",
+  "customizations": {
+    "vscode": {
+      "extensions": ["Dart-Code.dart-code"]
+    }
+  }
+}
