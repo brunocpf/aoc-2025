@@ -7,13 +7,13 @@ Challenge: [Gift Shop](https://adventofcode.com/2025/day/2)
 ### Part 1
 
 ```sh
-mix part1 --input ./inputs/input.txt
+mix part1 --input=<path-to-input>
 ```
 
 ### Part 2
 
 ```sh
-mix part2 --input ./inputs/input.txt
+mix part2 --input=<path-to-input>
 ```
 
 ## Tests
