@@ -48,9 +48,7 @@ int parseRotation(String rotation) {
       case "L":
         return -rotationAmount;
       default:
-        {
-          throw FormatException("Invalid direction");
-        }
+        return 0;
     }
   } catch (e) {
     return 0;

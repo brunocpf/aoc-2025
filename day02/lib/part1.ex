@@ -1,11 +1,11 @@
-defmodule Part1 do
+defmodule Day02.Part1 do
   require Integer
   @spec get_result(list({integer(), integer()})) :: integer()
   def get_result(ranges) do
     ranges
     |> Enum.reduce(
       0,
-      fn [min, max], result_acc ->
+      fn {min, max}, result_acc ->
         min..max
         |> Enum.reduce(
           result_acc,

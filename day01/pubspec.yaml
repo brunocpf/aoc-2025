@@ -1,7 +1,7 @@
 name: day01
 description: Advent of code day01
 version: 1.0.0
-repository: https://github.com/brunocpf/aoc-2025/day01
+repository: https://github.com/brunocpf/aoc-2025/tree/main/day01
 
 executables:
   part1: bin/part1.dart
