@@ -15,3 +15,9 @@ dart run day01:part1 --input=<path-to-input>
 ```sh
 dart run day01:part2 --input=<path-to-input>
 ```
+
+## Tests
+
+```sh
+dart test
+```

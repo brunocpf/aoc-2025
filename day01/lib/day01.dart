@@ -20,11 +20,10 @@ int calculateRotationsThroughZero(int startPosition, List<String> rotations) {
   for (final rotation in rotations) {
     final rotationValue = parseRotation(rotation);
     final dest = currentPosition + rotationValue;
+    rotationsThroughZero += (dest.abs() / 100).floor();
 
     if (dest <= 0 && currentPosition != 0) {
-      rotationsThroughZero += (1 + dest.abs() / 100).floor();
-    } else {
-      rotationsThroughZero += (dest.abs() / 100).floor();
+      rotationsThroughZero += 1;
     }
 
     currentPosition = (dest % 100).abs();

@@ -1,0 +1,9 @@
+{
+  "name": "Day 02",
+  "image": "elixir:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["jakebecker.elixir-ls"]
+    }
+  }
+}

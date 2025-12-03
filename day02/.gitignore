@@ -1,0 +1,11 @@
+/inputs/
+
+/_build/
+/cover/
+/deps/
+/doc/
+/tmp/
+erl_crash.dump
+*.ez
+day02-*.tar
+

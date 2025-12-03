@@ -2,14 +2,14 @@
 
 My solutions to the [Advent of Code 2025 programming challenges](https://adventofcode.com/2025). There will be 12 challenges this year, one released each day from December 1st to December 12th.
 
-I'll be attempting to solve each day's challenge in multiple programming languages for fun and practice. I'll try to avoid languages I'm more proficient in as an extra challenge.
+I'll be attempting to solve each day's challenge in multiple programming languages for fun and practice. I'll try to start with languages I don't use as often as an extra challenge.
 
 I'll also be disabling AI tools/copilot-style completions.
 
 ## Challenges
 
 - Day 1: Dart - [Solution](/day01/README.md)
-- Day 2: Rust - [Solution](/day02/README.md)
+- Day 2: Elixir - [Solution](/day02/README.md)
 - Day 3: WIP
 - Day 4: WIP
 - Day 5: WIP
