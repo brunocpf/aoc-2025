@@ -10,7 +10,7 @@ I'll also be disabling AI tools/copilot-style completions.
 
 - Day 1: Dart - [Solution](/day01/README.md)
 - Day 2: Elixir - [Solution](/day02/README.md)
-- Day 3: Scala = [Solution](/day03/README.md)
+- Day 3: Scala - [Solution](/day03/README.md)
 - Day 4: WIP
 - Day 5: WIP
 - Day 6: WIP
