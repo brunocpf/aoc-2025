@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Part2",
+      "mainClass": "com.aoc.day03.Part2",
+      "buildTarget": "file:/workspaces/aoc-2025/day03/?id=root",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

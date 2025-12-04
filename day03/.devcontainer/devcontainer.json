@@ -1,0 +1,15 @@
+{
+  "name": "Day 03",
+  "image": "sbtscala/scala-sbt:eclipse-temurin-alpine-24.0.1_9_1.11.7_3.7.4",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "scala-lang.scala",
+        "scalameta.metals",
+        "ms-java.vscode-java-runtime",
+        "vscjava.vscode-java-debug",
+        "redhat.java"
+      ]
+    }
+  }
+}
