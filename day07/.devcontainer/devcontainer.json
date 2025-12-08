@@ -1,0 +1,11 @@
+{
+  "name": "Day 07",
+  "image": "clojure:temurin-21-tools-deps",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "betterthantomorrow.calva"
+      ]
+    }
+  }
+}
