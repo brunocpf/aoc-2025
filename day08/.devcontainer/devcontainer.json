@@ -1,0 +1,9 @@
+{
+  "name": "Day 08",
+  "image": "haskell:9.8",
+  "customizations": {
+    "vscode": {
+      "extensions": ["haskell.haskell"]
+    }
+  }
+}

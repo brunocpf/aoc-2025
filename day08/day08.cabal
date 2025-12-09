@@ -1,0 +1,36 @@
+cabal-version:      3.4
+name:               day08
+version:            0.1.0.0
+build-type:         Simple
+
+common warnings
+    ghc-options: -Wall
+
+library
+    import:           warnings
+    exposed-modules:  Playground
+    hs-source-dirs:   src
+    build-depends:    base >=4.14 && <5
+    default-language: GHC2021
+
+executable part1
+    import:           warnings
+    main-is:          Part1.hs
+    hs-source-dirs:   app
+    build-depends:    base, day08
+    default-language: GHC2021
+
+executable part2
+    import:           warnings
+    main-is:          Part2.hs
+    hs-source-dirs:   app
+    build-depends:    base, day08
+    default-language: GHC2021
+
+test-suite day08-test
+    import:           warnings
+    type:             exitcode-stdio-1.0
+    main-is:          Spec.hs
+    hs-source-dirs:   test
+    build-depends:    base, day08
+    default-language: GHC2021
