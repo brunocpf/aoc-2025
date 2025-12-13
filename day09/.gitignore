@@ -1,0 +1,5 @@
+bin/
+obj/
+inputs/
+*.user
+.vs/
