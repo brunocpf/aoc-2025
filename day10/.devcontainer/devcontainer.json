@@ -1,0 +1,9 @@
+{
+  "name": "Day 10",
+  "image": "swift:6.0",
+  "customizations": {
+    "vscode": {
+      "extensions": ["swiftlang.swift-vscode"]
+    }
+  }
+}
