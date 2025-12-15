@@ -1,0 +1,9 @@
+{
+  "name": "Day 11",
+  "image": "mcr.microsoft.com/devcontainers/go:1",
+  "customizations": {
+    "vscode": {
+      "extensions": ["golang.go"]
+    }
+  }
+}
