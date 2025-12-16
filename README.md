@@ -12,14 +12,14 @@ I'll also be disabling AI tools/copilot-style completions.
 - Day 2: Elixir - [Solution](/day02/)
 - Day 3: Scala - [Solution](/day03/)
 - Day 4: Rust - [Solution](/day04/)
-- Day 5: WIP
-- Day 6: WIP
-- Day 7: WIP
-- Day 8: WIP
-- Day 9: WIP
-- Day 10: WIP
-- Day 11: WIP
-- Day 12: WIP
+- Day 5: F# - [Solution](/day05/)
+- Day 6: Kotlin - [Solution](/day06/)
+- Day 7: Clojure - [Solution](/day07/)
+- Day 8: Haskell - [Solution](/day08/)
+- Day 9: C# - [Solution](/day09/)
+- Day 10: Swift - [Solution](/day10/)
+- Day 11: Go - [Solution](/day11/)
+- Day 12: TypeScript - [Solution](/day12/)
 
 ## How to Run
 
