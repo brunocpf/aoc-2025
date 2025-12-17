@@ -1,0 +1,16 @@
+{
+  "name": "day12",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "part1": "tsx src/part1.ts",
+    "part2": "tsx src/part2.ts",
+    "test": "tsx --test test/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
