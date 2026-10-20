@@ -16,6 +16,8 @@ npm run part1 -- --input ./inputs/input.txt
 npm run part2 -- --input ./inputs/input.txt
 ```
 
+Part 2 has no puzzle input, so this just reports how many regions were parsed.
+
 ## Tests
 
 ```sh
